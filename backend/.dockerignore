@@ -1,0 +1,12 @@
+.venv
+__pycache__
+*.pyc
+.pytest_cache
+.mypy_cache
+.ruff_cache
+celerybeat-schedule*
+uploads/
+.env
+.env.*
+qa_*.json
+tmp_*.py

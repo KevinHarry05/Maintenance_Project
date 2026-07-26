@@ -1,0 +1,103 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "FastAPI server running on port 8000": [
+      {
+        "executionId": "3fa28108-070b-41bf-961a-0d8c47515122",
+        "chatSessionId": "sess_1ea10ca9-f6e7-4052-89a5-9d700ae91866",
+        "timestamp": 1785029708450
+      }
+    ],
+    "Swagger UI accessible and complete": [
+      {
+        "executionId": "3fa28108-070b-41bf-961a-0d8c47515122",
+        "chatSessionId": "sess_1ea10ca9-f6e7-4052-89a5-9d700ae91866",
+        "timestamp": 1785029709040
+      }
+    ],
+    "Health endpoint responds 200": [
+      {
+        "executionId": "3fa28108-070b-41bf-961a-0d8c47515122",
+        "chatSessionId": "sess_1ea10ca9-f6e7-4052-89a5-9d700ae91866",
+        "timestamp": 1785029709559
+      }
+    ],
+    "Database connection works": [
+      {
+        "executionId": "3fa28108-070b-41bf-961a-0d8c47515122",
+        "chatSessionId": "sess_1ea10ca9-f6e7-4052-89a5-9d700ae91866",
+        "timestamp": 1785029710146
+      }
+    ],
+    "Redis connection works": [
+      {
+        "executionId": "3fa28108-070b-41bf-961a-0d8c47515122",
+        "chatSessionId": "sess_1ea10ca9-f6e7-4052-89a5-9d700ae91866",
+        "timestamp": 1785029710659
+      }
+    ],
+    "Celery worker running and ready": [
+      {
+        "executionId": "3fa28108-070b-41bf-961a-0d8c47515122",
+        "chatSessionId": "sess_1ea10ca9-f6e7-4052-89a5-9d700ae91866",
+        "timestamp": 1785029711141
+      }
+    ],
+    "All routers loaded": [
+      {
+        "executionId": "3fa28108-070b-41bf-961a-0d8c47515122",
+        "chatSessionId": "sess_1ea10ca9-f6e7-4052-89a5-9d700ae91866",
+        "timestamp": 1785029711536
+      }
+    ],
+    "No critical errors in logs": [
+      {
+        "executionId": "3fa28108-070b-41bf-961a-0d8c47515122",
+        "chatSessionId": "sess_1ea10ca9-f6e7-4052-89a5-9d700ae91866",
+        "timestamp": 1785029711966
+      }
+    ],
+    "Located in correct directory: `c:\\Users\\kevin\\OneDrive\\Desktop\\SMBS-PEP\\backend`": [
+      {
+        "executionId": "3fa28108-070b-41bf-961a-0d8c47515122",
+        "chatSessionId": "sess_1ea10ca9-f6e7-4052-89a5-9d700ae91866",
+        "timestamp": 1785029712470
+      }
+    ],
+    "PostgreSQL server running: Check with `netstat -an | findstr \"5432\"`": [
+      {
+        "executionId": "3fa28108-070b-41bf-961a-0d8c47515122",
+        "chatSessionId": "sess_1ea10ca9-f6e7-4052-89a5-9d700ae91866",
+        "timestamp": 1785029712921
+      }
+    ],
+    "Redis server running: Check with `netstat -an | findstr \"6379\"` or `redis-cli ping`": [
+      {
+        "executionId": "3fa28108-070b-41bf-961a-0d8c47515122",
+        "chatSessionId": "sess_1ea10ca9-f6e7-4052-89a5-9d700ae91866",
+        "timestamp": 1785029713355
+      }
+    ],
+    ".env file exists and configured": [
+      {
+        "executionId": "3fa28108-070b-41bf-961a-0d8c47515122",
+        "chatSessionId": "sess_1ea10ca9-f6e7-4052-89a5-9d700ae91866",
+        "timestamp": 1785029713855
+      }
+    ],
+    "Python 3.10+ installed: Verify with `python --version`": [
+      {
+        "executionId": "3fa28108-070b-41bf-961a-0d8c47515122",
+        "chatSessionId": "sess_1ea10ca9-f6e7-4052-89a5-9d700ae91866",
+        "timestamp": 1785029714357
+      }
+    ],
+    "Sufficient disk space for venv and packages (~500MB)": [
+      {
+        "executionId": "3fa28108-070b-41bf-961a-0d8c47515122",
+        "chatSessionId": "sess_1ea10ca9-f6e7-4052-89a5-9d700ae91866",
+        "timestamp": 1785029714825
+      }
+    ]
+  }
+}

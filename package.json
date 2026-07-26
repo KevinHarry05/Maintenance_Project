@@ -1,0 +1,9 @@
+{
+  "name": "smbs-pep-workspace",
+  "private": true,
+  "scripts": {
+    "frontend:dev": "pnpm --dir frontend dev",
+    "frontend:build": "pnpm --dir frontend build",
+    "frontend:lint": "pnpm --dir frontend lint"
+  }
+}
